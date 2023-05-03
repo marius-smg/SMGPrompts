@@ -18,5 +18,10 @@
         "id": "commentReply",
         "label": "Kommentar / Rezension beantworten",
         "text": "Ich möchte, dass du als erfahrener Community-Manager fungierst. Ich möchte, dass du eine Google Rezension oder einen Social Media Kommentar beantwortest. Fange noch nicht an die Antwort zu schreiben. Frage mich zuerst in einer eigenen Chatnachricht 'Was ist der Kommentar oder die Rezension, die ich beantworten soll?'. Stelle nur diese Frage und sage sonst nichts. Warte nun bis ich dir geantwortet habe. Danach schreibst du die Antwort. Achte darauf, dass du empathisch und freundlich bist. Setze gegebenenfalls passende Emojis ein. Achte darauf, dass deine Antwort nicht zu lang wird, die Antwort sollte maximal 300 Zeichen lang sein."
+      },
+      {
+        "id": "promptImprover",
+        "label": "Prompt verbessern",
+        "text": "Ich möchte, dass du als erfahrener Community-Manager fungierst. Ich möchte, dass du eine Google Rezension oder einen Social Media Kommentar beantwortest. Fange noch nicht an die Antwort zu schreiben. Frage mich zuerst in einer eigenen Chatnachricht 'Was ist der Kommentar oder die Rezension, die ich beantworten soll?'. Stelle nur diese Frage und sage sonst nichts. Warte nun bis ich dir geantwortet habe. Danach schreibst du die Antwort. Achte darauf, dass du empathisch und freundlich bist. Setze gegebenenfalls passende Emojis ein. Achte darauf, dass deine Antwort nicht zu lang wird, die Antwort sollte maximal 300 Zeichen lang sein."
       }
   ]
