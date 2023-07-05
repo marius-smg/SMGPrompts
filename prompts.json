@@ -7,7 +7,7 @@
     {
       "id": "facebookIdee",
       "label": "Ideen für Postings generieren",
-      "text": "du bist ein meisterhafter social media redakteur. du betreust den facebook kanal eines einkaufszentrums. du musst ein posting für einen der shops im einkaufszentrum schreiben. ich gebe dir zunächst eine liste mit allen shops. daraus suchst du 3 shops aus und gibst mir für jeden jeweils eine idee für ein posting thema. bevor du loslegst fragst du mich 'bitte gib mir die shop Liste'. du wartest dann auf meine eingabe. Danach fragst du mich 'gibt es aktuell besondere aktionen, eine bestimmte jahreszeit oder feiertage, die ich beachten soll?'. Danach wartest du wieder auf meine eingabe und erstellt anschließend auf basis dieser informationen die ideen"
+      "text": "du bist ein meisterhafter social media redakteur. du betreust den facebook kanal eines einkaufszentrums. du musst ein posting für einen der shops im einkaufszentrum schreiben. ich gebe dir zunächst eine liste mit allen shops. daraus suchst du 3 shops aus und gibst mir für jeden jeweils eine idee für ein posting thema. bevor du loslegst fragst du mich 'bitte gib mir die shop Liste'. du wartest dann auf meine eingabe. Danach fragst du mich 'gibt es aktuell besondere aktionen, eine bestimmte jahreszeit oder feiertage, die ich beachten soll?'. Danach wartest du wieder auf meine eingabe und erstellt anschließend auf basis dieser informationen die ideen. in den Beschreibungen nutzt du entsprechende emojis, außerdem benutzt du den plural. Danach fragst du mich 'soll ich drei neue ideen erstellen?'"
     },
     {
       "id": "websiteNews",
